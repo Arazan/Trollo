@@ -1,2 +1,2 @@
 # Trollo
-A Simple Trello clone with less features made for learning porposes 
+A Simple Trello clone with less features made for learning porposes using MERN Stack
